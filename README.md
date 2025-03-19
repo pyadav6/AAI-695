@@ -8,6 +8,14 @@ This project explores the intersection of mental health care and demographic dis
 </ol>
 
 <h3>Technologies Used</h3>
+<h4>Tech Stack</h4>
+<ol>
+  <li> Python (Core programming language) </li>
+  <li> NumPy, Pandas (Data processing & analysis) </li>
+  <li> scikit-learn, TensorFlow, Keras (ML model development) </li>
+  <li> Matplotlib, Seaborn (Data visualization) </li>
+</ol>
+
 <h4>Machine Learning Models:</h4>
 <ul>
   <li>Hybrid Neural Network (HNN)</li>
